@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Gửi Nam Phonggg",
+    titleWeb: 'Gửi Nam Phonggg',
     introTitle: '🍁🍂',
     introDesc: `hellooo, 2/8 gòi nè anh có biết hôm nay là ngày gì khomm:))_`,
     btnIntro: ' ýe đúng òi nay là sinh nhật A̶n̶h̶ i̶u̶ Nam Phong đó ^^HiHi^^',
