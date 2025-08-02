@@ -11,9 +11,6 @@ const CONFIG = {
     btnReply: 'Gửi',
     reply: 'đẹt ti ni đó hẹ hẹ🤡🥰:))',
     mess: 'aww em biết mà✨:))',
-    desc: ' vì cũng có căn dữ lắm mới gặp được nhau nên là dù có thế nào thì cũng không được sủi nhe🌻',
-    btnYes: 'chắc chắn òi:]]',
-    btnNo: 'hên xui😞',
     messDesc: 'Tối nay, mình chơi game, xem phim nhaaa.',
     btnAccept: 'Okiiiii lun <3',
     title: '🌻'
